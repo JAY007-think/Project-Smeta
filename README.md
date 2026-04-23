@@ -59,8 +59,8 @@ Smart Multimodal Emergency Triage AI is a production-grade web application desig
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/JAY007-think/smart-triage.git
-   cd smart-triage
+   git clone https://github.com/JAY007-think/Project-Smeta
+   cd Smeta
    ```
 
 2. **Backend Setup**
